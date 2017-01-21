@@ -1,11 +1,3 @@
-//
-//  iOSHandsOnTests.swift
-//  iOSHandsOnTests
-//
-//  Created by Yoshiki Aoki on 2017/1/20.
-//  Copyright © 2017 Yoshiki Aoki. All rights reserved.
-//
-
 import XCTest
 @testable import iOSHandsOn
 

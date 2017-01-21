@@ -1,11 +1,3 @@
-//
-//  iOSHandsOnUITests.swift
-//  iOSHandsOnUITests
-//
-//  Created by Yoshiki Aoki on 2017/1/20.
-//  Copyright © 2017 Yoshiki Aoki. All rights reserved.
-//
-
 import XCTest
 
 class iOSHandsOnUITests: XCTestCase {
